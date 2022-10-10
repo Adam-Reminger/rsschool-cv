@@ -31,8 +31,8 @@ function generateLotteryNumbers() {
 none (in IT)
 
 ### Education:
-Jagiellonian University "Advanced Materials and Nanotechnology",
-Cracow University of Science an Technology "Material Engeneering and Ceramics"
+- Jagiellonian University "Advanced Materials and Nanotechnology"
+- Cracow University of Science an Technology "Material Engeneering and Ceramics"
 
 ### Languages:
 - English, level B2
