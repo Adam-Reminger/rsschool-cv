@@ -14,7 +14,18 @@ I want to learn Front-End Development in RSSchool because I want to start career
 - VS Code - basic
 
 ### Code example:
-
+```javascript
+function generateLotteryNumbers() {
+    let numbers = [];
+    while (numbers.length < 5) {
+        let number = Math.floor(Math.random() * 46) + 1;
+        if (!numbers.includes(number)) {
+            numbers.push(number);
+        }
+    }
+    return numbers;
+}
+```
 
 ### Experience:
 none (in IT)
