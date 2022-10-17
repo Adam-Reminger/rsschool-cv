@@ -19,3 +19,44 @@ body {
     line-height: 1.5;
     background-color: var(--background-light-gray);
 }
+
+.container h3 {
+    font-weight: 800;
+	border-bottom: 2px solid var(--background-gray);
+}
+
+pre {
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 30px;
+    font-family: monospace;
+    font-size: 0.9rem;
+    background-color: #f5f5f5;
+  }
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 0.8rem;
+    color: #000;
+    background-color: var(--background-light-gray);
+    border-top: 2px solid var(--background-gray);
+  }
+
+  footer a {
+    text-decoration: none;
+    color: #000;
+  }
+
+  footer a p {
+    margin-left: 10px;
+    margin-right: -10px;
+  }
+
+  .github-link {
+    display: flex;
+    align-items: center;
+}
